@@ -1,7 +1,7 @@
 {
   "name": "hm-clone-frontend",
   "version": "0.0.1",
-  "homepage": "https://YOURUSERNAME.github.io/hm-clone",
+  "homepage": "https://Astral-07.github.io/hm-clone",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
