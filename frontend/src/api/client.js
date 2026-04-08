@@ -4,7 +4,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'http://localhost:8080/api',
+  baseURL: 'https://hm-clone-dgex.onrender.com/api',
 });
 
 // Automatically attach JWT token to every request if logged in
